@@ -10,7 +10,7 @@ It uses the **GitHub Users API** to fetch real-time data.
 
 ## 📸 Preview
 
-[Dev Detective Preview](./screenshots/preview.png)  
+![Dev Detective Preview](screenshots/preview.png)  
 
 ---
 
